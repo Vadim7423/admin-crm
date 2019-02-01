@@ -1,0 +1,1 @@
+<div class="alert alert-success">Письмо принято в работу</div>
